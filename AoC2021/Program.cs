@@ -1,5 +1,4 @@
 ﻿using AoC2021.Days;
 
-Console.WriteLine("Hello, World!");
-
-Day1.Day1Solve();
+//Day1.Solve();
+Day2.Solve();

@@ -1,8 +1,8 @@
 ﻿namespace AoC2021.Days;
 
-public static class Day1
+internal static class Day1
 {
-    public static void Day1Solve()
+    internal static void Solve()
     {
         var input = File.ReadAllLines("day1.txt");
         var inputParsed = new long[input.Length];
